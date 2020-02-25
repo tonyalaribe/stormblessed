@@ -3,7 +3,7 @@
 ### Let your api's be blessed by the stormfather, so you never have to fear outdated documentations anymore. 
 
 
-![StormBlessed](https://stormlightarchive.fandom.com/wiki/Odium?file=KH_StormblessedRev.jpg)
+![StormBlessed](stormblessedimg.jpg)
 Stormblessed Fan art by [krhar](https://www.deviantart.com/krhart/art/Stormlight-Archive-Stormblessed-Revised-729999052)
 
 
